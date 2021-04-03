@@ -110,3 +110,5 @@ https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/premiereclubes_3f1522d0_6c29f2
 https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/premiereclubes_3f1522d0_6c29f2e6fdeafe43df49361c769b0f83cdb4bce6/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjMwLjIxNC4xODAiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4yOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjExNCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE3Mzk5OTc3O30%3D
 #EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" group-title="INFANTIL",TOONCAST
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tooncast_8effee40_68f5cc4e96c4c94979a0bba2ac631191f04205ca/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo-1.png" group-title="FILMES E SÉRIES",AXN
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/axn_cb7a1d77_8db64aa8a1167a7e578bbd35f70254e29a18ea00/playlist.m3u8?
