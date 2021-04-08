@@ -3,7 +3,7 @@
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5.png" group-title="ESPORTES",ESPN
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://th.bing.com/th/id/OIP.Pf1Yi-BcSqLX7oSM7DovtgHaBZ?pid=ImgDet&rs=1" group-title="ESPORTES",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://stonybrookathletics.com/images/2021/3/16/017f41a2_ef4f_39d3_9f45_f680b88cd23b.png" group-title="ESPORTES",ESPN 2
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="https://th.bing.com/th/id/R14237bcc9d9e6d768feddf55d44a6c3b?rik=ljXqckYL7Kmrjw&riu=http%3a%2f%2fwww.tvmagazine.com.br%2fimagens%2ficones%2f600%2fespnextra.png&ehk=5GiU7puCHN3iM0yw7LslM8G%2bJiCAwUjHB7jTMWyIzqM%3d&risl=&pid=ImgRaw" group-title="ESPORTES",ESPN EXTRA
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
@@ -27,3 +27,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w889697000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/1200px-SporTV_logo_2011.png" group-title="ESPORTES",SPORT TV
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/sportv1.m3u8?mu3zAQc9HC3GbwJq=iqM5deGHxlyTP5YSJLhZ-A&3U1G7qaTxrPbalZnEx=1617866105
+#EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/Sexlog_logo.png" group-title="SEXLOG", SEXLOG
+https://newlivestreamcc.sexlog.com/WebRTCAppEE/streams/atenadominique__480p.m3u8
+
