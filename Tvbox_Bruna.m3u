@@ -3,5 +3,5 @@
 https://hls-2.astr.site/hls/jogo-de-amor-em-las-vegas/master.m3u8?hash=UyDyjNrE6JE-sS0I8C6PVA&expires=1637034185
 #EXTINF:-1 tvg-id="" tvg-name="A PRINCESINHA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bd/Littleprincesss.jpg" group-title="PEDIDOS | FILMES",A PRINCESINHA
 https://www155.ff-01.com/token=NRHHbGanI8oaPx2aVN8kXQ/1637042794/191.31.0.0/15/f/e3/a268d60953a545dcdbdf82f33798fe3f-480p.mp4
-EXTINF:-1 tvg-id="" tvg-name="UM PRINCIPE EM NOVA YORK 2" tvg-logo="https://cinevisao.pt/wp-content/uploads/2020/06/Coming-2-America.jpg" group-title="PEDIDOS | FILMES",UM PRINCIPE EM NOVA YORK 2
+#EXTINF:-1 tvg-id="" tvg-name="UM PRINCIPE EM NOVA YORK 2" tvg-logo="https://cinevisao.pt/wp-content/uploads/2020/06/Coming-2-America.jpg" group-title="PEDIDOS | FILMES",UM PRINCIPE EM NOVA YORK 2
 https://hls.astr.site/hls/um-principe-em-nova-york-2/master.m3u8?hash=ypgNH5kgCLw3hri5Vn_XWg&expires=1637035328
