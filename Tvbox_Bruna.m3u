@@ -1,11 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="JOGO DE AMOR EM LAS VEGAS" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_100901-MLB20429894065_092015-O.webp" group-title="FILMES",JOGO DE AMOR EM LAS VEGAS
-https://hls-2.astr.site/hls/jogo-de-amor-em-las-vegas/master.m3u8?hash=UyDyjNrE6JE-sS0I8C6PVA&expires=1637034185
-#EXTINF:-1 tvg-id="" tvg-name="A PRINCESINHA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bd/Littleprincesss.jpg" group-title="FILMES",A PRINCESINHA
-https://download2275.mediafire.com/gycobeyygqpg/wi3kiftrv58wzae/A.Princesinha.1995-HD.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BDTV" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_100901-MLB20429894065_092015-O.webp" group-title="FILMES",JOGO DE AMOR EM LAS VEGAS
+https://diagued1.s3.us-central-1.wasabisys.com/cdn8/JogodeAmorEmLasVegas.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A PRINCESINHA" tvg-logo="https://image.tmdb.org/t/p/w500/1bK5wt5eHeWTGHsrEpahRG6HFI6.jpg" group-title="FILMES",A PRINCESINHA
+https://rr3---sn-gpv7kn76.c.drive.google.com/videoplayback?expire=1637311280&ei=8CqXYaf7K9Gt8wS-qrmYDA&ip=179.42.145.37&cp=QVRIWURfUFJWQVhPOkpSOGNsbUVlNVpRVktRTERoUVBMbkc1eHVqam9mc3ViVk5takNIMEdqVjk&id=fc6d42d21496ccbf&itag=18&source=webdrive&requiressl=yes&mh=L5&mm=32&mn=sn-gpv7kn76&ms=su&mv=m&mvi=3&pl=24&ttl=transient&susc=dr&driveid=1rDGKhoyCdYb0k_VRqLJjxecWbJuSO1O5&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=5842.651&lmt=1554655985541642&mt=1637296582&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgYELGsyB1F7as9LJfJqjoD2kydLtrADn0Lf0lr-nG2GUCICh3eM8vLGiPQXC6TMPZh6QU7AK2sNu5Rib8nGdsazJ_&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhANutiQHomZGUmydHAHacsQXJ2hpvs1jjiwIHkeb2a16IAiEAn6wVS2BV_KzcczGarOG5voSaWYSlehzQEPwvseRKKl4=&cpn=j1B3zo9yxtqORvCQ&c=WEB_EMBEDDED_PLAYER&cver=1.20211117.01.00
 #EXTINF:-1 tvg-id="" tvg-name="UM PRINCIPE EM NOVA YORK 2" tvg-logo="https://cinevisao.pt/wp-content/uploads/2020/06/Coming-2-America.jpg" group-title="FILMES",UM PRINCIPE EM NOVA YORK 2
-https://hls.astr.site/hls/um-principe-em-nova-york-2/master.m3u8?hash=ypgNH5kgCLw3hri5Vn_XWg&expires=1637035328
+https://zelanfolder.fun/filmes/484718/dub.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A VIDA É BELA" tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2019/02/20190226-a-vida--bela-papo-de-cinema-cartaz.jpg" group-title="FILMES",A VIDA É BELA
-https://mv-2.astr.site/get.php?q=hd&f=QVVPZ1l4RVZZSlNmTUhWaE1GNXVNVHlKWXhSPQ==&id=Wm1aMg==&token=QkdWa0FtV3dBR0V1TG1Nd1pKU3pad1d3WlFIM0x6SDBMd0l2QW1abVp6TD0=
+https://2371755325.tapecontent.net/radosgw/VG9bdW22WVtKKoX/E_MOWzG42nKfLQQ1AOhmjau-KG22mjqP8iKK4pwwSz9SQsh-NHfS1l_5x8c4aCIXhv79D-x7Uc6zNs4tiC0aNr0E7hqYawgsmXxklY7uTUqoolLwsvHwWbpoKNYUaZbJ1EBazuMng5UKrWPVEEEnbMoYel9fHr9CVPkYQht00sO0kMaoMfSyNMJRI8_qZ1GP0UlmJVKtkCwP6AcYf1aOB5RVlTkFTesn7bbQnaJMSn3XCTuxh0AWuxg9jDMngwhCsOYH_84mNm0gSq3UFu3d6qQ2bAVM_l9-0ln8GQ/Zi45FJgXoPB4r3rK?stream=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/6044-cartaz.jpg" group-title="FILMES",NOS TEMPOS DA BRILHANTINA
+https://2565136270.tapecontent.net/radosgw/yMWaMk7KDAU1l4A/I3wBxReW5PpxLizDJV-HzUtP-T5xB0WoA4QrRijSW3UL76wrrNPepxHdbQeX1Fc0pv7pdpZqVT5XfsAJngumJa-zH6c6--F3vClOh5IWI5APu-w2qO4RSeMq2iOQ3Eh2IQRwzy9UBt1TSDclpsxSaJbkAT_tOIi7FAWpSckOn_w0j93hJA3TvHrRGTGGZx_0EutQjMqwfoPV_1lmU_FzjxLlwHqRSEEAVpORKwBhiSfuK_BosblN1nn0xh6WTRByOxO4msGboc4AO2MqT_CTEXdmJJi0AGVV-3drcg/wM5F1TZKvKTKxhyI?stream=1
+#EXTINF:-1 tvg-id="" tvg-name="BDTV" tvg-logo="https://image.tmdb.org/t/p/w500/tW3ovNQsn5jPDB5E9B4KeCNA6kU.jpg" group-title="FILMES",AS BRANQUELAS
+https://2371755318.tapecontent.net/radosgw/28a4Q20QQbHZvz0/7FjNzM7lynOsUGgHTBkyVWdxkbt9L7ESYmGM4aQkN8PZ1Z4A4Wo7l1hSisPf82rWGnVS2IdRwH4aeJZlLv_5X7fWdoEIO8YeKDva6JCW_2MIR0dsJi6xPwU7Vno4gbgbpRX2gQpv9p4cOKcsoAaUcHFEobb-wDA7UjfGO2stmRHpyZiospIsMhp_lu2Rpem1tYwsbDhaENGhJzewPiUQ6ZWYn8jPu8_mlDmzWsDZiPl-wDozG4ONakbTrjRQ_Uo6om7SFoQQURNXXqaIRxCBrcaM1ER5OC2BWp6AIA/Dbb5uStpxb58a6BS.mp4?stream=1
+#EXTINF:-1 tvg-id="" tvg-name="BDTV" tvg-logo="https://image.tmdb.org/t/p/w500/5ZPbBXyjkgIbOasAIduF19EYYGZ.jpg" group-title="FILMES",CLICK
+https://861530416.tapecontent.net/radosgw/ggkw72MAMMuqqmV/1t9W6Z9AbTk-d-MIhej_HaeleA84gnktDSj0qvdq3tqp8wEhW_98t0EK77xab2hZIMFbTSLhTyZH6ovDlKgTpjhxL_A-_X4RI2NKGZyaYq6pYHjaA0Ix6lXoYG4KcVR-mNlC1CSdQ392hoytWTC8cI7KsEI51H92QX8BqxQLTrUV2XmZSQMtuDskM4dCl8ON1Jeml8i0wBuLGDkMaDZLJD5zKmWrXBG_aLWUtiDp1s76IKSSr6iX7SqIG-e7MsgE-ON99f6waync4ZjyEejWfQUIz8W2xsJdPyk-Tw/UzS1q7FNFYpVpIJj.mp4?stream=1
 #EXTINF:-1 tvg-id="" tvg-name="BRANCA DE NEVE E OS SETE ANÕES PORNO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDD08mKqjx5XRWxwSlp2zb0OGZSGZDeSpmt3NMXptQMh9UxHTMqEi32BfIxihYCgdOqTQ&usqp=CAU" group-title="FILMES PORNOS",BRANCA DE NEVE E OS SETE ANÕES
 https://hls-hw.xvideos-cdn.com/videos/hls/00/2c/71/002c710f0979bffd4004f4b9e3ff1fd7-1/hls-360p.m3u8?e=1637045707&l=0&h=4412ee9bdc5e78b495328e289eacd493
