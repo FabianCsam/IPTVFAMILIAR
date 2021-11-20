@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="JOGO DE AMOR EM LAS VEGAS" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_100901-MLB20429894065_092015-O.webp" group-title="FILMES DA BEATRIZ",JOGO DE AMOR EM LAS VEGAS
-https://hls-2.astr.site/hls/jogo-de-amor-em-las-vegas/master.m3u8?hash=UyDyjNrE6JE-sS0I8C6PVA&expires=1637034185
+#EXTINF:-1 tvg-id="" tvg-name="JOGO DE AMOR EM LAS VEGAS" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_100901-MLB20429894065_092015-O.webp" group-title="FILMES",JOGO DE AMOR EM LAS VEGAS
+https://diagued1.s3.us-central-1.wasabisys.com/cdn8/JogodeAmorEmLasVegas.mp4
