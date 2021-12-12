@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Sandy + Chef" tvg-logo="https://cinema10.com.br/upload/series/series_3041_sandy-chef1.jpeg" group-title="SERIES",Sandy + Chef
+http://localhost:8096/emby/videos/1210/stream.mp4?DeviceId=1c963f5d-f8ab-40a4-b6bd-2539e5bcc4a6&MediaSourceId=b0eb04b81e1892d5d42c9b4b1459bb27&Static=true&PlaySessionId=744a9735ab92436f8938f1ab3148e768&api_key=b541efb8df514446b1c746f868953549
